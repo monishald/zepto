@@ -1,0 +1,40 @@
+.Head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: darkorchid;
+  padding: 10px 40px;
+  height: 70px;
+}
+
+.Logo img {
+  height: 50px;
+}
+
+.SearchBar {
+  display: flex;
+  align-items: center;
+  width: 400px;
+  background-color: white;
+  padding: 5px 10px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+}
+
+.SearchBar input {
+  border: none;
+  outline: none;
+  margin-left: 8px;
+  width: 100%;
+}
+
+.search-icon {
+  color: #888;
+}
+
+.Buttons {
+  display: flex;
+  gap: 15px;
+}
+
+  

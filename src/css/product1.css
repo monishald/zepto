@@ -1,0 +1,21 @@
+.NewImage{
+    padding-top: 20px;
+    padding: 20px 40px;
+    gap: 40px;
+    width: 360px;
+}
+.Snacks{
+    display: flex;
+    justify-content: space-around;      
+    width: 360px;
+}
+.Drink{
+    display: flex;
+    justify-content: space-around;     
+    width: 360px; 
+}
+.Image{
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+}

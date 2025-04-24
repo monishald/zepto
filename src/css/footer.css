@@ -1,0 +1,27 @@
+.Footer {
+    background-color: #f0f0f0;
+    padding: 20px 40px;
+    font-size: 16px;  
+    color: #333;
+  }
+  
+  .Footer h4 {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  .Footer p {
+    margin-bottom: 10px;
+    gap: 20px;
+  }
+  .Logo img {
+    height: 50px;
+  }
+  .Catagories{
+    display: flex;
+    justify-content: space-around;
+  }
+  .New{
+    display: flex;
+    justify-content: space-around;
+  }

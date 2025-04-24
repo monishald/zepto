@@ -1,0 +1,20 @@
+.Image{   
+    padding: 20px 40px;
+    gap: 40px;
+    width: 340px;
+}
+.Image.h3{
+    display: flex;
+}
+.Grocery{
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;   
+    height: 300px;   
+}
+.Shop{
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;
+   
+}
