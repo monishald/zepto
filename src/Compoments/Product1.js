@@ -37,7 +37,7 @@ export default function Product1() {
              product.map((item, index) => (
               <div className='Image'>
               <img src={item.image} />
-              <p>{item.name}</p>
+              {/* <p>{item.name}</p> */}
               </div>
           ))
           }
